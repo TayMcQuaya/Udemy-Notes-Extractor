@@ -29,7 +29,7 @@ This script extracts notes from a Udemy course's HTML file and saves them as **E
 3. Right-click anywhere on the page and select **Save As** (or **Save Page As**).
 4. Choose **Webpage, Complete** as the format.
 5. Save the file to your computer.
-6. Rename the file (if needed) to something like `course.html` or keep the original name. The script works with any `.html` file saved from Udemy.
+6. Rename the file to `course.html`, otherwise it will not work.
 
 ---
 
